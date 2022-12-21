@@ -1,0 +1,2246 @@
+Bandit
+Soul ID: 01ba0e0c-b80f-48ce-8ce5-ba4c19c7bfc3
+Head ID: 42aa48b1-afdd-eebf-88bd-1765efcb8c95
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: soul_ui_name_bandit
+
+Guard
+Soul ID: 01e546ad-6b23-4976-85d2-4d1aa84d3be5
+Head ID: 4ed16810-8c5f-3ad5-0a61-e63a3e9bfe99
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 464ec279-f69d-89da-8769-a67ac52e498d
+Scriptname: soul_ui_name_guard
+
+Soldier 
+Soul ID: 01ecf00a-c8b6-4a0b-99e7-df9ad38a1824
+Head ID: 4826c718-b777-4df2-02ad-b3cd40c4bb97
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: soul_ui_name_soldier
+
+Gamekeeper
+Soul ID: 0249aa52-f5ac-48ea-b707-0f50c0c76c56
+Head ID: 4278ca1d-6a0e-4dca-0f72-e423458832bd
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 498bc146-f7d1-1c55-7a6b-b549cbdfb98f
+Scriptname: char_460_uiName
+
+Cuman
+Soul ID: 030b8313-506d-476d-953f-ff1023db984d
+Head ID: 4b6896ea-b754-edcc-f241-4f004b8ce9a1
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 481bb23a-06af-86b7-934c-e87acf7f3a91
+Scriptname: soul_ui_name_cuman
+
+Trader
+Soul ID: 035b23c3-304d-4f52-9a26-c992961d97a7
+Head ID: 4e1a8fe6-b6ae-7130-c3f6-c113717e3b8f
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 47d9216e-7949-59a0-0272-fbc85829d1a0
+Scriptname: soul_ui_name_merchant_man
+
+Poacher
+Soul ID: 0647977c-cd52-4861-b495-65fa0bf6ec5b
+Head ID: 49891946-9a06-f6f5-6285-03a1281ccb8f
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4b7bc943-143e-8d8c-c854-4ce1bb2f5ba2
+Scriptname: char_459_uiName
+
+Shop guard
+Soul ID: 06658d4d-3a4b-4abf-a545-c75a0c4fcc1d
+Head ID: 4a0f9f8c-765d-8fd7-d659-5a3ee0450698
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: soul_ui_name_shopGuard
+
+Villager
+Soul ID: 096011ec-0d59-46d9-bbb2-51b5e6815bfd
+Head ID: 42d388b9-d1cb-b570-496c-68b5e3aee3af
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 464ec279-f69d-89da-8769-a67ac52e498d
+Scriptname: soul_ui_name_villager_man
+
+Townsman
+Soul ID: 09cedf6b-c840-4a48-930d-36df707a30f6
+Head ID: 46cf890d-5c7b-aa39-defc-c35a794ed2a4
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 464ec279-f69d-89da-8769-a67ac52e498d
+Scriptname: soul_ui_name_townsman
+
+Beggar
+Soul ID: 13d36615-3bd5-4a97-88b7-d054dd5f0487
+Head ID: 41c8c3c5-01a5-fc38-c828-99a36ab36999
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: char_457_uiName
+
+Mercenary
+Soul ID: 1ff85f8a-5c06-4328-b67c-261d659084eb
+Head ID: 4badf439-71f2-a511-6405-e9f2724cdf84
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 483ee159-9888-4955-ee19-e41d97637592
+Scriptname: char_464_uiName
+
+Horse
+Soul ID: 22033b93-44d8-4abb-9c13-4aad0855701c
+Head ID: 
+Body ID: 4f341228-4cbe-cec5-f994-addd4ccaa3a7
+Hair ID: 43fc087e-121a-7646-da06-4a124ff29284
+Scriptname: soul_ui_name_horse
+
+Beggar
+Soul ID: 3123906f-c9eb-4acf-bc90-6bc2b84a829b
+Head ID: 41d9f3cd-f3c0-ada9-461b-c24635f2deb2
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: soul_ui_name_beggar_man
+
+Wayfarer
+Soul ID: 4000e060-493a-794d-dc7d-84130d52a9a4
+Head ID: 4b74e2b6-4c51-3f5e-fad7-1b6c87d4a5ad
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 47d9216e-7949-59a0-0272-fbc85829d1a0
+Scriptname: soul_ui_name_wanderer
+
+Body
+Soul ID: 4005d427-30c5-5a7b-5bb5-ecc9777060bb
+Head ID: 4489ffdb-1230-803a-8504-ac985dd01295
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 49048677-79d3-a37c-0de9-13bec637df81
+Scriptname: soul_ui_name_corpse
+
+Mill maid
+Soul ID: 400785f8-bc62-f1e8-c9cf-65110d27abad
+Head ID: 4489ffdb-1230-803a-8504-ac985dd01295
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 
+Scriptname: soul_ui_name_miller_woman
+
+Ruffian
+Soul ID: 400dafb5-3f89-c8d4-bcda-73783161f991
+Head ID: 4f440a65-e438-04bf-ecfc-43dfd475d097
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: soul_ui_name_ruffian
+
+Alex
+Soul ID: 400fb536-8320-f7ca-9ca2-4bc792b25f8a
+Head ID: 43854a72-1c15-4f1d-036d-0962d4e4259c
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4b61cecf-a191-72ce-01bf-36ce711ea6a0
+Scriptname: char_51_uiName
+
+Quarryman
+Soul ID: 4017e0b0-0a84-55f7-78eb-70e67946858d
+Head ID: 4f3a8a8b-bc0d-03ef-2206-f396372b27ab
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4ea94f8c-2b55-da74-5858-bbc94ea0619e
+Scriptname: soul_ui_name_quarryman
+
+Rattay Parish Priest
+Soul ID: 401913cc-1e46-3284-c745-5639970abab3
+Head ID: 4badf439-71f2-a511-6405-e9f2724cdf84
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 43111af3-2bb6-232c-4c91-da7221d06cbe
+Scriptname: char_63_uiName
+
+Townswoman
+Soul ID: 401ce947-305e-7823-e556-f4085598919d
+Head ID: 4d0df868-5ab5-e3a2-695c-83d8be5d3c85
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 450deb9d-adc4-13cf-8e64-3bf5302387b1
+Scriptname: soul_ui_name_townswoman
+
+Villager
+Soul ID: 4026a943-6479-48ac-d72e-fdb52c184094
+Head ID: 4fd6b538-690c-3831-f7cf-3759a2afbfbf
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 4f63e017-1d9c-01b6-922f-10ba24ff1e82
+Scriptname: soul_ui_name_villager_woman
+
+Hans
+Soul ID: 4028fec4-6d73-3629-e242-fde53e76a4ad
+Head ID: 4b74e2b6-4c51-3f5e-fad7-1b6c87d4a5ad
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4b61cecf-a191-72ce-01bf-36ce711ea6a0
+Scriptname: char_76_uiName
+
+Millmaid Jane
+Soul ID: 402aafb6-a7aa-fb3d-50b2-da19c93b0096
+Head ID: 4182f771-c465-75af-611d-8ae2205d8594
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 450deb9d-adc4-13cf-8e64-3bf5302387b1
+Scriptname: char_484_uiName
+
+Butcher
+Soul ID: 402fb4e0-32b5-dffa-5682-05680672fe8f
+Head ID: 47d39a94-59d0-9579-47c5-92dea795d5a4
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: soul_ui_name_butcher
+
+Fisherman
+Soul ID: 40310313-93e8-72cf-4cb5-a69f8389c58b
+Head ID: 48890db3-3ae6-ab23-ef84-3c11cb0a2082
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 464ec279-f69d-89da-8769-a67ac52e498d
+Scriptname: char_472_uiName
+
+Archery master
+Soul ID: 4037b6af-b392-2d84-9db6-57d971d664aa
+Head ID: 43854a72-1c15-4f1d-036d-0962d4e4259c
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4b61cecf-a191-72ce-01bf-36ce711ea6a0
+Scriptname: soul_ui_name_shootmaster
+
+Zbyshek
+Soul ID: 40468d12-ae0a-5248-8523-d2dd24b5dd92
+Head ID: 4137e9fc-ab98-ce56-9ed3-66c090319796
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4b61cecf-a191-72ce-01bf-36ce711ea6a0
+Scriptname: char_54_uiName
+
+Margaret
+Soul ID: 407cf853-0fd5-3097-f87b-e21c9d287db0
+Head ID: 4182f771-c465-75af-611d-8ae2205d8594
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 4ca4f314-85f4-c2ef-e10f-eef1b3f708ad
+Scriptname: char_62_uiName
+
+Mason
+Soul ID: 4099e327-5358-03bd-3777-737bb874c4ad
+Head ID: 4ca1d4ae-aeac-d01f-60a0-c7e56ea68d86
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 464ec279-f69d-89da-8769-a67ac52e498d
+Scriptname: char_153_uiName
+
+Votava
+Soul ID: 409eb07e-b3ca-e0a8-a227-4e9424cec98f
+Head ID: 4a0f9f8c-765d-8fd7-d659-5a3ee0450698
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 47d9216e-7949-59a0-0272-fbc85829d1a0
+Scriptname: char_535_uiName
+
+Artisan
+Soul ID: 40a0975e-0167-152a-294c-03c63bae40b9
+Head ID: 494d03ac-73d5-7237-343f-66cb22177389
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 464ec279-f69d-89da-8769-a67ac52e498d
+Scriptname: soul_ui_name_craftsman
+
+Trader
+Soul ID: 40a32be2-aca9-19c8-b8fc-17a13f035caa
+Head ID: 4489ffdb-1230-803a-8504-ac985dd01295
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 4a9d64f2-363f-8421-9192-3e5cca84dc89
+Scriptname: soul_ui_name_merchant_woman
+
+Baker
+Soul ID: 40a77b01-cae8-5896-e687-ecad5eaa468a
+Head ID: 00000000-0000-0000-0000-000000000005
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: soul_ui_name_baker
+
+Miller Peshek
+Soul ID: 40a95fd2-2055-9bd7-b5b9-06ef87aba2aa
+Head ID: 4cf5f5c3-66be-88d9-bc68-0d433a986e8d
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_178_uiName
+
+Miner
+Soul ID: 40aae808-15c3-0b29-5c74-0ad7ee059d98
+Head ID: 485a1f79-15b9-1561-7571-d50db191c0b0
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: soul_ui_name_miner
+
+Mirka
+Soul ID: 40af190a-d73d-0859-29f0-47aa68a4388e
+Head ID: 4fd6641d-ed0b-8124-0ad5-550c5ad3ee9f
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 4e598240-322b-fe6a-3d27-456f4a7e8396
+Scriptname: char_7_uiName
+
+Nightingale
+Soul ID: 40afe3fe-4499-9a87-827e-62b1aa514eb1
+Head ID: 443ecd20-c33c-30cb-a15b-6730b020b6be
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_224_uiName
+
+Insomniac
+Soul ID: 40b3998e-c7c8-b21d-8423-18985e6318b7
+Head ID: 47eecc79-db4d-a81d-9017-f0b0bb1c66bd
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_355_uiName
+
+Monk
+Soul ID: 40b64892-be82-9366-c837-b9b847a756bd
+Head ID: 4ecee699-d3a1-ce1c-e641-a54aa4b271b2
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 43111af3-2bb6-232c-4c91-da7221d06cbe
+Scriptname: soul_ui_name_monk
+
+Vagabond
+Soul ID: 40b77f1e-32a6-8fd4-09e1-92dab3acd698
+Head ID: 00000000-0000-0000-0000-000000000005
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: char_470_uiName
+
+Scribe
+Soul ID: 40d44e4c-0ad4-756a-51fa-925c53248ba7
+Head ID: 00000000-0000-0000-0000-000000000005
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: soul_ui_name_scribe
+
+Pickman
+Soul ID: 40d7f31c-72fb-4bfb-375d-79f83408379c
+Head ID: 4badf439-71f2-a511-6405-e9f2724cdf84
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: char_141_uiName
+
+Maruna
+Soul ID: 40dfd60e-2ad8-a138-cdf2-d67f5bec57a0
+Head ID: 47a50742-eb46-fc80-a728-89336bbcb9a1
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 450deb9d-adc4-13cf-8e64-3bf5302387b1
+Scriptname: char_135_uiName
+
+Charcoal-burner 
+Soul ID: 40efa50d-d110-2c71-cc34-c8a587c1d7a9
+Head ID: 494d03ac-73d5-7237-343f-66cb22177389
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_437_uiName
+
+Pebbles
+Soul ID: 40f7b115-7b9e-f1bb-d9b9-2d4a7bacd4bc
+Head ID: 
+Body ID: 4f14fe8f-5380-84b2-aeb3-6e51163f2a84
+Hair ID: 43fc087e-121a-7646-da06-4a124ff29284
+Scriptname: char_488_uiName
+
+Brother Librarian
+Soul ID: 4100c428-d72e-e677-b482-8de2c3c8448d
+Head ID: 459573bf-af4d-cb26-5076-35fad54ea5b4
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4008b869-81c8-a8f1-e30e-a6a48b7ce6a3
+Scriptname: char_147_uiName
+
+Podagros
+Soul ID: 410b1075-9dd6-bfbd-d2a1-2f9ab3e8afb1
+Head ID: 
+Body ID: 445d16d9-5798-b136-1d02-9859932ce5a4
+Hair ID: 43fc087e-121a-7646-da06-4a124ff29284
+Scriptname: char_497_uiName
+
+Scribe
+Soul ID: 410b58a6-b3e7-5080-7dd5-b770ae15ba88
+Head ID: 4ecee699-d3a1-ce1c-e641-a54aa4b271b2
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: char_193_uiName
+
+Refugee
+Soul ID: 411140ee-a8f7-e116-c7f1-fceeec045d90
+Head ID: 4e321b66-b17d-eba0-2640-d424c8e8bc90
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4b61cecf-a191-72ce-01bf-36ce711ea6a0
+Scriptname: soul_ui_name_refugee_man
+
+Ginger
+Soul ID: 4113a563-b809-2439-9bcc-0b0affedc492
+Head ID: 4b74e2b6-4c51-3f5e-fad7-1b6c87d4a5ad
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: char_72_uiName
+
+Brother Nevlas
+Soul ID: 4127b801-6faf-ed8d-4178-cb8c14dc1882
+Head ID: 4ca1d4ae-aeac-d01f-60a0-c7e56ea68d86
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 464ec279-f69d-89da-8769-a67ac52e498d
+Scriptname: char_347_uiName
+
+Father
+Soul ID: 41315647-d7e3-98de-b434-338e04c51bb6
+Head ID: 4b1065e5-42e8-ac7e-38e6-f4b5f694cdb4
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: char_19_uiName
+
+Jaroslav
+Soul ID: 4134801d-946f-6d4a-70d2-5bd88d26cdb7
+Head ID: 4efa7215-22c2-4ac6-6b60-11e1ad3a7cb3
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_57_uiName
+
+Bailiff
+Soul ID: 413b78e1-9650-a4f7-979e-ff7afbb576a8
+Head ID: 00000000-0000-0000-0000-000000000005
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: soul_ui_name_bailiff
+
+Erik
+Soul ID: 414127c8-83a8-e303-abf9-3fb3108dd2ba
+Head ID: 451d689a-6aa9-4bdb-9079-29188939fdbc
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 481bb23a-06af-86b7-934c-e87acf7f3a91
+Scriptname: char_295_uiName
+
+Swordsmith
+Soul ID: 4147074f-adf4-c1e5-3a55-31fd86bfffbd
+Head ID: 4c190e0d-78df-556b-dddd-4e77007d71ae
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4bc51034-3ad5-0050-f5c1-ba11046ed4ba
+Scriptname: soul_ui_name_weaponsmith
+
+Miller
+Soul ID: 414902f1-13db-975a-c66e-5ed6bdcf338e
+Head ID: 00000000-0000-0000-0000-000000000005
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: soul_ui_name_miller_man
+
+Hired hand
+Soul ID: 414df7f0-2d1f-db45-3bb0-e47e7305e190
+Head ID: 485a1f79-15b9-1561-7571-d50db191c0b0
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: soul_ui_name_groom
+
+Borya  
+Soul ID: 414ea15f-a952-55b7-c688-57dd9c0799b0
+Head ID: 4b6896ea-b754-edcc-f241-4f004b8ce9a1
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: char_28_uiName
+
+Charcoal-burner
+Soul ID: 4154c30f-0280-06f9-9eaf-0273a194538a
+Head ID: 430a5b7a-0cff-49e7-3084-90a5bb41fd8b
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: soul_ui_name_collier
+
+Crimp
+Soul ID: 415b8e41-55e2-dafa-67eb-5796c16f9796
+Head ID: 4ecee699-d3a1-ce1c-e641-a54aa4b271b2
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_98_uiName
+
+Punch
+Soul ID: 415bb04a-bdba-29c3-8922-e8044f746f84
+Head ID: 47dddc03-7b5c-e8b6-e576-7f474c714fbe
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_100_uiName
+
+Sir Robard
+Soul ID: 41745168-6f1f-3fd8-0b4e-d1f3ba3e64ab
+Head ID: 4bc74402-9a5b-8f64-c3a6-42615169efad
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_10_uiName
+
+Watchman
+Soul ID: 4174932d-2c08-220e-fc0b-3384f16c9e83
+Head ID: 4f808a1d-7d8b-867b-644e-1a2ae0b804a9
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 432f8b7b-bdb8-24e6-9df3-623d504d439b
+Scriptname: soul_ui_name_watchman
+
+Charcoal-burner twin
+Soul ID: 41807d80-95e4-d29a-fd77-81b115746da5
+Head ID: 485a1f79-15b9-1561-7571-d50db191c0b0
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_83_uiName
+
+Kunesh
+Soul ID: 4186aa52-e9ba-5b6a-5f79-9d20264f4eb8
+Head ID: 47dddc03-7b5c-e8b6-e576-7f474c714fbe
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4b61cecf-a191-72ce-01bf-36ce711ea6a0
+Scriptname: char_48_uiName
+
+Olena
+Soul ID: 4197b980-96c0-8c02-e2a2-75bd6e41ba8e
+Head ID: 
+Body ID: 42855b88-f189-7ee4-5d39-9bd0feea8d86
+Hair ID: 43fc087e-121a-7646-da06-4a124ff29284
+Scriptname: char_234_uiName
+
+Innkeeper
+Soul ID: 419998eb-0418-c2da-add6-8207ee96c29f
+Head ID: 459573bf-af4d-cb26-5076-35fad54ea5b4
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: soul_ui_name_innkeeper
+
+Marianna
+Soul ID: 41a8227c-74b7-eafb-07eb-5d53079abea4
+Head ID: 454f5263-baf2-cf94-80da-7b359adfa0b4
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 450deb9d-adc4-13cf-8e64-3bf5302387b1
+Scriptname: char_466_uiName
+
+Procopius
+Soul ID: 41b97e41-0f33-d0a2-efa6-d5cfe1a3c9ae
+Head ID: 41d9f3cd-f3c0-ada9-461b-c24635f2deb2
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: char_101_uiName
+
+Matthew
+Soul ID: 41bb20df-0860-9371-6df0-55fc2cab2eb4
+Head ID: 4d1ba624-73f6-1d7b-8be9-46c2501e1db4
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: char_205_uiName
+
+Fresco Master
+Soul ID: 41c0c0b5-3f98-0d89-1668-3d46ae680aa7
+Head ID: 4da0fa45-c37e-a7b3-fd4b-9eef082b2880
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: char_510_uiName
+
+Roan
+Soul ID: 41c6152a-9532-52c7-af10-d3d0c25aca97
+Head ID: 
+Body ID: 4f341228-4cbe-cec5-f994-addd4ccaa3a7
+Hair ID: 43fc087e-121a-7646-da06-4a124ff29284
+Scriptname: char_543_uiName
+
+Elishka
+Soul ID: 41d31a99-43dc-662f-36bc-d06e38fbe3a9
+Head ID: 47a50742-eb46-fc80-a728-89336bbcb9a1
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 4f63e017-1d9c-01b6-922f-10ba24ff1e82
+Scriptname: char_175_uiName
+
+Tobias Feyfar
+Soul ID: 41e9f38a-d5b8-7bf6-673d-1f5cfe72379c
+Head ID: 42369a16-e3c5-f0a4-09d4-5ddcf8f4daae
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4008b869-81c8-a8f1-e30e-a6a48b7ce6a3
+Scriptname: char_47_uiName
+
+Bathmaid
+Soul ID: 41ecfd7f-9817-9e26-ed7d-5f7fe2cd2184
+Head ID: 4a1a02fd-6920-f056-8c9a-ef8b2eb22ea0
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 450deb9d-adc4-13cf-8e64-3bf5302387b1
+Scriptname: soul_ui_name_bathhouseMaid
+
+Master Jerome
+Soul ID: 41ef9012-ad8c-b6ab-7648-761a81aedab5
+Head ID: 4cb4a77d-1556-ec5f-4764-4e17faa8408a
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 464ec279-f69d-89da-8769-a67ac52e498d
+Scriptname: char_297_uiName
+
+Trojan
+Soul ID: 41fde928-c162-ccac-043f-e397c2855398
+Head ID: 
+Body ID: 425451b6-ba9b-91d2-f3b5-9dc977ed0fb4
+Hair ID: 43fc087e-121a-7646-da06-4a124ff29284
+Scriptname: char_492_uiName
+
+Charcoal-burner 
+Soul ID: 42031ce4-03ea-d6f4-d0de-17a161b71db0
+Head ID: 41d9f3cd-f3c0-ada9-461b-c24635f2deb2
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: char_447_uiName
+
+Armoursmith
+Soul ID: 4203d715-43a1-0049-e26b-8579c81ce0b0
+Head ID: 00000000-0000-0000-0000-000000000005
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: soul_ui_name_armorer
+
+Betwixt
+Soul ID: 42196daf-7563-1cad-b9d0-7082968ba6be
+Head ID: 485a1f79-15b9-1561-7571-d50db191c0b0
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_366_uiName
+
+Rocinante
+Soul ID: 42384001-7124-966d-c2af-616e526de09a
+Head ID: 
+Body ID: 4b58d97c-a4b0-f52f-7506-4b74504db390
+Hair ID: 43fc087e-121a-7646-da06-4a124ff29284
+Scriptname: char_489_uiName
+
+Farmhand 
+Soul ID: 424bf850-3fcd-32cc-2803-cd46f11ce381
+Head ID: 00000000-0000-0000-0000-000000000005
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_468_uiName
+
+Alehouse maid
+Soul ID: 42522ef9-7af1-64f7-90f2-626737cc2ea9
+Head ID: 4fd6641d-ed0b-8124-0ad5-550c5ad3ee9f
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 48ed37d7-947c-a46b-6bd3-940db95a58bc
+Scriptname: soul_ui_name_bartender
+
+Gravedigger
+Soul ID: 425b5c9f-e218-2f3a-1444-3c3929adea8c
+Head ID: 48b67a62-5959-6bc6-3c26-df8a1ba6c2a9
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: char_148_uiName
+
+Sir Hanush of Leipa
+Soul ID: 4277ed6c-e639-346f-20a4-37418f34ab84
+Head ID: 44d9e991-9986-ed09-87ea-64b7c1568fb8
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_225_uiName
+
+Woodcutter
+Soul ID: 428e100b-4667-df0c-40fa-2877585bc68c
+Head ID: 49891946-9a06-f6f5-6285-03a1281ccb8f
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 464ec279-f69d-89da-8769-a67ac52e498d
+Scriptname: soul_ui_name_lumberjack
+
+Stonemason
+Soul ID: 4294dbf3-3198-0305-ff0b-e29166f4b380
+Head ID: 4a63cfe5-7273-213e-89c3-1b1d0b8eb9b3
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: soul_ui_name_mason
+
+Elderly woman
+Soul ID: 42a590fb-8d9f-d287-2270-b81f54bfd9a5
+Head ID: 4de8a0d6-c482-9c37-3428-35e405693c92
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 450deb9d-adc4-13cf-8e64-3bf5302387b1
+Scriptname: char_195_uiName
+
+Tanner
+Soul ID: 42ba98c2-6dbc-7aaf-fe7a-d81b6d6a13a4
+Head ID: 00000000-0000-0000-0000-000000000005
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: soul_ui_name_tanner
+
+Stump
+Soul ID: 42c6a079-4a5b-6098-414d-5e246fef3ba7
+Head ID: 4a97d5fe-4ebc-2de3-ff05-c7cab44735a2
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_365_uiName
+
+Tramp
+Soul ID: 42c7720f-6536-881a-c1be-fe849001b285
+Head ID: 4970ab5a-6f76-c4fa-9dd0-873fb0f892bc
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4b61cecf-a191-72ce-01bf-36ce711ea6a0
+Scriptname: char_252_uiName
+
+Elderly man
+Soul ID: 42d9bf61-57ec-3683-6c0f-8471e0b33fa9
+Head ID: 4cb4a77d-1556-ec5f-4764-4e17faa8408a
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: char_194_uiName
+
+Zdena
+Soul ID: 42e13e04-e2cc-3af8-180d-91af4b07d5bd
+Head ID: 4fd6641d-ed0b-8124-0ad5-550c5ad3ee9f
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 450deb9d-adc4-13cf-8e64-3bf5302387b1
+Scriptname: char_251_uiName
+
+Soothsayer
+Soul ID: 42ec0364-d108-0aa1-b88a-92533a3c9c83
+Head ID: 4a3e825a-d037-4093-256b-0d9ac72f41a7
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 450deb9d-adc4-13cf-8e64-3bf5302387b1
+Scriptname: soul_ui_name_fortuneTeller
+
+Rupert
+Soul ID: 42ec2208-c3e0-da2d-249b-8aa60f684e99
+Head ID: 4ecee699-d3a1-ce1c-e641-a54aa4b271b2
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_14_uiName
+
+Miller's debt collector
+Soul ID: 42fea7e7-04c0-a4b1-aad5-63bba52877b9
+Head ID: 00000000-0000-0000-0000-000000000005
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: soul_ui_name_millerEnforcer
+
+Milan 
+Soul ID: 4301f528-9a22-5b1c-548b-a2e9412eeb88
+Head ID: 47def915-0b91-cc32-33d7-265e7eab1f9f
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_476_uiName
+
+Beggar Jane
+Soul ID: 4309fdd2-1831-82c6-897a-9ba2197eb69e
+Head ID: 4dc5f1f2-d447-817d-f381-a3e29ca3e9a5
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 4e598240-322b-fe6a-3d27-456f4a7e8396
+Scriptname: char_228_uiName
+
+Catchpole
+Soul ID: 43108d03-cf88-c620-3670-bc52d2a7168f
+Head ID: 4ca84caf-980a-665f-7d40-2c02a00c72bd
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 464ec279-f69d-89da-8769-a67ac52e498d
+Scriptname: char_50_uiName
+
+Wounded man
+Soul ID: 4313c362-fb20-d994-3add-7452685c62b3
+Head ID: 00000000-0000-0000-0000-000000000005
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 464ec279-f69d-89da-8769-a67ac52e498d
+Scriptname: soul_ui_name_wounded
+
+Henry
+Soul ID: 43144483-f3bb-fab8-9ceb-f77e3020598a
+Head ID: 4b8b7289-41e9-2785-a0b9-1651465445a5
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4bc51034-3ad5-0050-f5c1-ba11046ed4ba
+Scriptname: char_26_uiName
+
+Wayfaring Knight
+Soul ID: 431dd698-37c0-a087-0839-a6736f8495a8
+Head ID: 4433e907-4a1f-a309-d91a-f859e45a0888
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_463_uiName
+
+Tournament Master
+Soul ID: 433ccc42-0ee5-9404-4ae2-7ffa15ba8895
+Head ID: 41c8c3c5-01a5-fc38-c828-99a36ab36999
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_550_uiName
+
+Brawler
+Soul ID: 433e080e-732c-1e7b-3bbd-374ca762edb2
+Head ID: 462bffa5-bf93-f592-62c9-c73df0b1f493
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 464ec279-f69d-89da-8769-a67ac52e498d
+Scriptname: soul_ui_name_q_fightClub_fighter
+
+Miller Simon
+Soul ID: 4364a0f6-d7cc-918a-004c-d03a4a0bfe95
+Head ID: 430a5b7a-0cff-49e7-3084-90a5bb41fd8b
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_180_uiName
+
+Odd Bird
+Soul ID: 4380b8b2-fa8f-1ceb-7dbd-a9dde606d4b6
+Head ID: 451d689a-6aa9-4bdb-9079-29188939fdbc
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_479_uiName
+
+Blacksmith
+Soul ID: 438405a4-0a20-2e2a-4d6d-7f3ae71d3192
+Head ID: 00000000-0000-0000-0000-000000000005
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: soul_ui_name_blacksmith
+
+Roach
+Soul ID: 439e7e15-9c3a-fdad-74ec-2c1ca3b272a2
+Head ID: 
+Body ID: 425451b6-ba9b-91d2-f3b5-9dc977ed0fb4
+Hair ID: 43fc087e-121a-7646-da06-4a124ff29284
+Scriptname: char_493_uiName
+
+Květoslav the combat setter
+Soul ID: 43a4d560-1fbb-0c52-fa5f-60a9636ff4b5
+Head ID: 404f142d-dc33-769c-f121-ac7a579c7fbc
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_483_uiName
+
+Thomas
+Soul ID: 43b09b31-eae4-d500-a24e-472219f36c96
+Head ID: 4da0fa45-c37e-a7b3-fd4b-9eef082b2880
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 464ec279-f69d-89da-8769-a67ac52e498d
+Scriptname: char_353_uiName
+
+Father Simon
+Soul ID: 43bb685a-52d3-7fb3-970e-8985d1dd1881
+Head ID: 4a63cfe5-7273-213e-89c3-1b1d0b8eb9b3
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_154_uiName
+
+Sir Radzig Kobyla
+Soul ID: 43c33404-7d69-ceb8-713b-807835b0f999
+Head ID: 49e96b41-a5e3-a794-03f8-636eff390eab
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4bc51034-3ad5-0050-f5c1-ba11046ed4ba
+Scriptname: char_22_uiName
+
+Cook
+Soul ID: 43c96b9a-a5b5-da38-0287-475cd21267b4
+Head ID: 4a86e942-fbe4-679d-eeaf-b921e69782a1
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 49048677-79d3-a37c-0de9-13bec637df81
+Scriptname: char_332_uiName
+
+Brother Porter
+Soul ID: 43e6aac8-6dbd-1845-1c8e-f4f89cd106ab
+Head ID: 4cb4a77d-1556-ec5f-4764-4e17faa8408a
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4008b869-81c8-a8f1-e30e-a6a48b7ce6a3
+Scriptname: char_132_uiName
+
+Margrave Jobst  
+Soul ID: 43eb7093-a9c3-7493-67f6-6be701f46f9b
+Head ID: 4e653afe-1b23-db1e-74c8-350b21b958a8
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_299_uiName
+
+Hans from Skalitz
+Soul ID: 43ee4816-119e-216a-4f7a-a3959bee708d
+Head ID: 41d9f3cd-f3c0-ada9-461b-c24635f2deb2
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 464ec279-f69d-89da-8769-a67ac52e498d
+Scriptname: char_352_uiName
+
+Lady Stephanie
+Soul ID: 4405c810-00e8-73f1-2908-86fc7a81c0a7
+Head ID: 4fd6641d-ed0b-8124-0ad5-550c5ad3ee9f
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 4a8db7fc-061e-bf25-0788-544016eb5eaf
+Scriptname: char_24_uiName
+
+Ruda
+Soul ID: 4409fc91-8348-ef5c-163c-c5499b867cae
+Head ID: 42d388b9-d1cb-b570-496c-68b5e3aee3af
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_172_uiName
+
+Guardian Manfred 
+Soul ID: 4414b14d-a0cf-1e87-f5d0-49985d2430a5
+Head ID: 4f440a65-e438-04bf-ecfc-43dfd475d097
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 464ec279-f69d-89da-8769-a67ac52e498d
+Scriptname: char_346_uiName
+
+Blacksmith's apprentice
+Soul ID: 4422f5dc-5c65-2598-eaf3-227339b6c581
+Head ID: 4970ab5a-6f76-c4fa-9dd0-873fb0f892bc
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 464ec279-f69d-89da-8769-a67ac52e498d
+Scriptname: soul_ui_name_blacksmithApprentice
+
+Stablemaster
+Soul ID: 4427d0ab-3111-a1c7-4d81-173e8246d5aa
+Head ID: 00000000-0000-0000-0000-000000000005
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_240_uiName
+
+Herbalist
+Soul ID: 4431e312-fac2-98bd-6d2f-c0c1c98df6b6
+Head ID: 4de8a0d6-c482-9c37-3428-35e405693c92
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 48ed37d7-947c-a46b-6bd3-940db95a58bc
+Scriptname: soul_ui_name_herbalist
+
+Cuman
+Soul ID: 443c52bc-1e7a-e753-e2c8-0bc59c2a8dad
+Head ID: 427e5d03-49f8-a509-f14b-64f09707bea8
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4bc51034-3ad5-0050-f5c1-ba11046ed4ba
+Scriptname: char_263_uiName
+
+Herbalist Kunhuta
+Soul ID: 445e2a0d-9d3e-d882-fec9-9e3020735d94
+Head ID: 49d9f44c-b704-f8d9-86ae-1a4b7fc72f96
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 450deb9d-adc4-13cf-8e64-3bf5302387b1
+Scriptname: char_212_uiName
+
+Janek
+Soul ID: 446a4927-f749-99d5-b265-7b7ffae4eb9d
+Head ID: 4e8b50c5-63f0-e85b-9a43-f244c56c16aa
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 464ec279-f69d-89da-8769-a67ac52e498d
+Scriptname: char_56_uiName
+
+Bayard
+Soul ID: 446f7ca4-fc50-5771-aa83-2998ced24bb6
+Head ID: 
+Body ID: 445d16d9-5798-b136-1d02-9859932ce5a4
+Hair ID: 43fc087e-121a-7646-da06-4a124ff29284
+Scriptname: char_501_uiName
+
+Brother Cellarius
+Soul ID: 4476e0e2-394c-5c26-e4c5-992bd4e600a8
+Head ID: 00000000-0000-0000-0000-000000000005
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: char_350_uiName
+
+Herald
+Soul ID: 4477f9a0-7b75-a2c2-aab3-dadaf213cfa1
+Head ID: 48830d36-b145-1e4b-869d-9e3cbd636a8c
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 481bb23a-06af-86b7-934c-e87acf7f3a91
+Scriptname: soul_ui_name_herold
+
+Sir Jezhek
+Soul ID: 448d449b-fb67-c4f2-e1a0-5a0ff0f15d95
+Head ID: 48890db3-3ae6-ab23-ef84-3c11cb0a2082
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: char_289_uiName
+
+Sir Divish  
+Soul ID: 4496d65f-10e1-1234-798a-2f51989ee9a8
+Head ID: 4b1aa014-7206-d1fc-7455-bf3ae238e3a5
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_20_uiName
+
+Hatatitla
+Soul ID: 44a2ff92-b53a-f772-6679-81e481fcc6b9
+Head ID: 
+Body ID: 425451b6-ba9b-91d2-f3b5-9dc977ed0fb4
+Hair ID: 43fc087e-121a-7646-da06-4a124ff29284
+Scriptname: char_495_uiName
+
+Wolflin of Kamberg
+Soul ID: 44a4b6ef-f5f2-9622-1ff8-816aba14749e
+Head ID: 462bffa5-bf93-f592-62c9-c73df0b1f493
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4b7455d3-7604-d9bf-c940-1706a147bca0
+Scriptname: char_344_uiName
+
+Schemig
+Soul ID: 44bc94ec-6ec1-8cca-52aa-cec4ae196aa1
+Head ID: 
+Body ID: 4f341228-4cbe-cec5-f994-addd4ccaa3a7
+Hair ID: 43fc087e-121a-7646-da06-4a124ff29284
+Scriptname: char_500_uiName
+
+Beggar
+Soul ID: 44d37e84-3828-535c-79f3-4e7b638f7c80
+Head ID: 4489ffdb-1230-803a-8504-ac985dd01295
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 
+Scriptname: soul_ui_name_beggar_woman
+
+Khuta
+Soul ID: 44dee649-c387-1eb7-981a-6d3b637181a9
+Head ID: 4fd6b538-690c-3831-f7cf-3759a2afbfbf
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 48ed37d7-947c-a46b-6bd3-940db95a58bc
+Scriptname: char_215_uiName
+
+Raspberry
+Soul ID: 45050625-a8d5-0b2b-6bd1-b8ea545df5b8
+Head ID: 4d6e6234-2896-93e6-ff63-83a32703fb97
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_292_uiName
+
+Weed
+Soul ID: 4507adaa-ebb2-3b5d-0e77-2d13aad731b8
+Head ID: 4e321b66-b17d-eba0-2640-d424c8e8bc90
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4b61cecf-a191-72ce-01bf-36ce711ea6a0
+Scriptname: char_364_uiName
+
+Agnes
+Soul ID: 45175878-6d59-75dc-700f-26c720de7b85
+Head ID: 43e7dce3-03e3-f75d-5978-f28b3efd7783
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 4e598240-322b-fe6a-3d27-456f4a7e8396
+Scriptname: char_131_uiName
+
+Urban
+Soul ID: 4549a167-4c96-d0bb-d8f0-9965692ac097
+Head ID: 459573bf-af4d-cb26-5076-35fad54ea5b4
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_435_uiName
+
+Markvart von Aulitz
+Soul ID: 455273c2-0a96-6f16-cf98-ecbe48f35ebd
+Head ID: 44b587f0-1c6e-d894-33e2-b16269bf88b5
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_67_uiName
+
+Master Ota
+Soul ID: 455416ab-45da-7b96-50d7-55feeabfa587
+Head ID: 498cd967-cd4d-e26c-b25c-58d55fc27898
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_301_uiName
+
+Racer
+Soul ID: 456613e5-3390-6a76-1496-1068ecb25d87
+Head ID: 00000000-0000-0000-0000-000000000005
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: soul_ui_name_q_racingAndBetting_racer
+
+Charcoal-burner
+Soul ID: 456d1047-7be2-f244-3ef9-07f0808672bb
+Head ID: 4f440a65-e438-04bf-ecfc-43dfd475d097
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_82_uiName
+
+Executioner's henchman
+Soul ID: 45778af4-f290-5383-3bf1-5ab076c6e68e
+Head ID: 41369351-5a3d-19b2-39ea-2ea3219aa685
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: soul_ui_name_q_execExec_executionersCrewMember
+
+Zora's dappled grey
+Soul ID: 457dfdbd-d64a-59f8-2cbc-5353718635af
+Head ID: 
+Body ID: 4f14fe8f-5380-84b2-aeb3-6e51163f2a84
+Hair ID: 43fc087e-121a-7646-da06-4a124ff29284
+Scriptname: char_542_uiName
+
+Lanky
+Soul ID: 4580dd43-9298-1e96-92ed-dab09eb78f90
+Head ID: 4da0fa45-c37e-a7b3-fd4b-9eef082b2880
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4b61cecf-a191-72ce-01bf-36ce711ea6a0
+Scriptname: char_367_uiName
+
+Brother Elias
+Soul ID: 45956577-0f7d-3368-5c23-ace02e04bdbd
+Head ID: 4b74e2b6-4c51-3f5e-fad7-1b6c87d4a5ad
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_360_uiName
+
+Father Godwin  
+Soul ID: 45ced3ad-8925-1e5a-8ddf-0007693d3d99
+Head ID: 43afd824-c6e9-551e-32b6-870622cbd4b0
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_2_uiName
+
+Uchchaihshravas
+Soul ID: 45d8b12a-9066-486d-6878-0f6940a8c5b0
+Head ID: 
+Body ID: 4f341228-4cbe-cec5-f994-addd4ccaa3a7
+Hair ID: 43fc087e-121a-7646-da06-4a124ff29284
+Scriptname: char_498_uiName
+
+Faint-hearted Knight
+Soul ID: 45da943b-837b-eddc-4ec8-50af81ea29a3
+Head ID: 4aeadc6d-b547-a5fe-d6bf-03ec0f8c3194
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_462_uiName
+
+Suspicious man-at-arms
+Soul ID: 45df32e6-d1d5-5350-aa3d-fc547317e5b1
+Head ID: 4e24f71b-927b-a555-c932-feffdc9e4eb6
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: char_91_uiName
+
+Apothecary
+Soul ID: 45e56646-b7bf-6633-4a59-d1511bc340a6
+Head ID: 4138f2b4-d849-6a3d-748a-a6190339e1a6
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: soul_ui_name_apothecary
+
+Hanekin Hare 
+Soul ID: 45efb1f4-bc99-00be-5102-1d57edf17aa7
+Head ID: 420e25ad-ff60-4402-2113-5bd2cb4b2c9d
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_15_uiName
+
+Gambler
+Soul ID: 460a1a42-5a7d-5155-a32b-4d3244d445aa
+Head ID: 427e5d03-49f8-a509-f14b-64f09707bea8
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_119_uiName
+
+Farmer Bauer
+Soul ID: 4615aaaf-aedd-69c9-0d92-99c09dd712b0
+Head ID: 42aa48b1-afdd-eebf-88bd-1765efcb8c95
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: char_242_uiName
+
+Circator
+Soul ID: 461b58da-77a1-50f8-f3cf-d8580efcd58b
+Head ID: 41d9f3cd-f3c0-ada9-461b-c24635f2deb2
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: soul_ui_name_circator
+
+Quartermaster
+Soul ID: 4624fcce-aa76-182d-0fb8-387238854294
+Head ID: 463710ce-4850-84a1-ead9-4206c08a0088
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4b61cecf-a191-72ce-01bf-36ce711ea6a0
+Scriptname: char_362_uiName
+
+Morcock
+Soul ID: 462addb4-ce67-c651-2358-6f03a7db68aa
+Head ID: 4aeadc6d-b547-a5fe-d6bf-03ec0f8c3194
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 481bb23a-06af-86b7-934c-e87acf7f3a91
+Scriptname: char_8_uiName
+
+Combat Master Vanyek
+Soul ID: 464c0078-2566-4391-4143-2659b8406689
+Head ID: 00000000-0000-0000-0000-000000000005
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4b61cecf-a191-72ce-01bf-36ce711ea6a0
+Scriptname: char_294_uiName
+
+Black Lukesh
+Soul ID: 4658ef07-c099-386d-e455-82494f3905aa
+Head ID: 4e8b50c5-63f0-e85b-9a43-f244c56c16aa
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_30_uiName
+
+Vicar's guard
+Soul ID: 4659fd00-b4a5-9a5e-86cc-4f67ea561dac
+Head ID: 430e90b7-fa44-f913-12f2-aa6835ce9f86
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 43111af3-2bb6-232c-4c91-da7221d06cbe
+Scriptname: char_540_uiName
+
+Tanner
+Soul ID: 465fd5aa-4d73-1f0a-737b-2bab2f774bb3
+Head ID: 404f142d-dc33-769c-f121-ac7a579c7fbc
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 464ec279-f69d-89da-8769-a67ac52e498d
+Scriptname: char_97_uiName
+
+Soldier
+Soul ID: 4667389f-36ec-b886-3c84-ea88db974393
+Head ID: 48830d36-b145-1e4b-869d-9e3cbd636a8c
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4b61cecf-a191-72ce-01bf-36ce711ea6a0
+Scriptname: char_512_uiName
+
+Overseer's Hand
+Soul ID: 467388c8-b4e8-ca13-9be1-00f7417d49aa
+Head ID: 4433e907-4a1f-a309-d91a-f859e45a0888
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4b7bc943-143e-8d8c-c854-4ce1bb2f5ba2
+Scriptname: char_480_uiName
+
+Charlatan
+Soul ID: 468044a8-052d-88dc-65e0-42589f3cd39b
+Head ID: 4bf88699-f02c-dc91-308f-a48cc13134b7
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_93_uiName
+
+Peychar
+Soul ID: 469a24fa-c4a8-549d-7026-95d0ce1e9b8e
+Head ID: 443ecd20-c33c-30cb-a15b-6730b020b6be
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4b61cecf-a191-72ce-01bf-36ce711ea6a0
+Scriptname: char_487_uiName
+
+Andrew
+Soul ID: 469a778e-29f9-96ae-2132-5156c40d4281
+Head ID: 4d033237-bfba-f43a-beb2-172f2d8287bf
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_226_uiName
+
+Rapota
+Soul ID: 46a32003-1f38-5d66-f244-8888b96be0af
+Head ID: 4278ca1d-6a0e-4dca-0f72-e423458832bd
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_290_uiName
+
+Prior
+Soul ID: 46b70837-880c-5898-b9db-397e7bb0feaa
+Head ID: 4eb0a91d-a813-9109-eac5-e2a8004008a7
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_146_uiName
+
+Mistress Bauer
+Soul ID: 46c0bc8f-6718-75c3-e1d0-b8ae26085aa8
+Head ID: 47a50742-eb46-fc80-a728-89336bbcb9a1
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 48ed37d7-947c-a46b-6bd3-940db95a58bc
+Scriptname: char_239_uiName
+
+Novice Antonius
+Soul ID: 46d2c29b-91fb-773c-2b8c-4f84cdbcceb6
+Head ID: 4aeadc6d-b547-a5fe-d6bf-03ec0f8c3194
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: char_162_uiName
+
+Zach 
+Soul ID: 46d8278c-1d65-99d4-b30f-4c63e8f2b38c
+Head ID: 430a5b7a-0cff-49e7-3084-90a5bb41fd8b
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_465_uiName
+
+Tailor
+Soul ID: 46e127ba-a478-45c1-b163-9fc943ea4f98
+Head ID: 430e90b7-fa44-f913-12f2-aa6835ce9f86
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: soul_ui_name_tailor
+
+Johann
+Soul ID: 46f871e8-75a6-5fb0-9951-47f1cd8b3cbe
+Head ID: 4cb4a77d-1556-ec5f-4764-4e17faa8408a
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_282_uiName
+
+Tanner Brada
+Soul ID: 4703bb5d-ea7e-f28e-76d9-5fa02da2ee93
+Head ID: 459573bf-af4d-cb26-5076-35fad54ea5b4
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 464ec279-f69d-89da-8769-a67ac52e498d
+Scriptname: char_449_uiName
+
+Ringlet 
+Soul ID: 47073b7a-95bc-6a6f-07c3-2b6404fccfa7
+Head ID: 4cb4a77d-1556-ec5f-4764-4e17faa8408a
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 498bc146-f7d1-1c55-7a6b-b549cbdfb98f
+Scriptname: char_477_uiName
+
+Vatzek
+Soul ID: 4731351f-c37f-666d-9cf5-5d1d0582d0bc
+Head ID: 498cd967-cd4d-e26c-b25c-58d55fc27898
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_265_uiName
+
+Hans Capon
+Soul ID: 4737000b-d6f5-b118-ce6e-7f01704dafb3
+Head ID: 40f48202-e852-65f9-4591-ad5f73a8c787
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 483ee159-9888-4955-ee19-e41d97637592
+Scriptname: char_25_uiName
+
+Ulrich
+Soul ID: 4744920f-ca4c-8fd1-32a7-83dcc3b018ab
+Head ID: 4e42f4e5-0747-b7da-5d8d-b190feb11d9c
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_288_uiName
+
+Tom o' the Baths
+Soul ID: 477455f2-5b09-51d5-6991-3e62d93dabb9
+Head ID: 4da0fa45-c37e-a7b3-fd4b-9eef082b2880
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_31_uiName
+
+Leshek 
+Soul ID: 477b47b7-bb2c-ed98-22b7-ac873c3debbc
+Head ID: 4f440a65-e438-04bf-ecfc-43dfd475d097
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 464ec279-f69d-89da-8769-a67ac52e498d
+Scriptname: char_151_uiName
+
+Old prostitute
+Soul ID: 477f7048-e9b6-c9fc-2e55-8cc29e33fa89
+Head ID: 4fd6b538-690c-3831-f7cf-3759a2afbfbf
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 4ca4f314-85f4-c2ef-e10f-eef1b3f708ad
+Scriptname: char_467_uiName
+
+Huntsman Berthold
+Soul ID: 4787e934-773b-c1ea-77ac-2df736e80299
+Head ID: 4ca84caf-980a-665f-7d40-2c02a00c72bd
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: char_271_uiName
+
+Godwin's concubine
+Soul ID: 4791b7d8-c4ef-2448-1ed2-8481f45c8388
+Head ID: 47a50742-eb46-fc80-a728-89336bbcb9a1
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 4f63e017-1d9c-01b6-922f-10ba24ff1e82
+Scriptname: char_44_uiName
+
+Refugee
+Soul ID: 47966e18-abf6-3eb7-3a39-b83ad20912ab
+Head ID: 4489ffdb-1230-803a-8504-ac985dd01295
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 
+Scriptname: soul_ui_name_refugee_woman
+
+Adam
+Soul ID: 47a75cc1-17bb-d5c4-30ef-9beb6a11fcaa
+Head ID: 4ecee699-d3a1-ce1c-e641-a54aa4b271b2
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_134_uiName
+
+Vitus
+Soul ID: 47acfb52-b8b3-6c7a-64d2-c9e0f9e1d99b
+Head ID: 485a1f79-15b9-1561-7571-d50db191c0b0
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: char_537_uiName
+
+Mother
+Soul ID: 47d47b14-73b3-da7f-d9e5-387cdbf87494
+Head ID: 4ee65c00-ac5d-f579-7c5a-32099793a7a1
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 48ed37d7-947c-a46b-6bd3-940db95a58bc
+Scriptname: char_21_uiName
+
+Karl
+Soul ID: 47d574ec-7f82-394d-68c9-2992088ecc90
+Head ID: 4b74e2b6-4c51-3f5e-fad7-1b6c87d4a5ad
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: char_298_uiName
+
+Binky
+Soul ID: 47e706a8-0d1d-c79f-7fe4-1257f873089d
+Head ID: 
+Body ID: 4f341228-4cbe-cec5-f994-addd4ccaa3a7
+Hair ID: 43fc087e-121a-7646-da06-4a124ff29284
+Scriptname: char_499_uiName
+
+Bianca
+Soul ID: 4800f053-2b25-3f57-4b8a-e7d07d0e5dac
+Head ID: 424d1e19-059d-f8df-75ae-02343a7ce483
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 4f63e017-1d9c-01b6-922f-10ba24ff1e82
+Scriptname: char_58_uiName
+
+Bathhouse proprietor
+Soul ID: 48031378-63a1-973e-c8a3-a44c9f6a63a1
+Head ID: 438ffba3-a253-ce22-7a98-039c554ee0bf
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 4e598240-322b-fe6a-3d27-456f4a7e8396
+Scriptname: soul_ui_name_bathhouseAbbess
+
+Rock
+Soul ID: 48389626-eeb6-f503-3cf3-e476afb35d89
+Head ID: 494d03ac-73d5-7237-343f-66cb22177389
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: char_137_uiName
+
+Zlata
+Soul ID: 4842ca6b-04e6-cf87-4cf8-7e7bc5a7b5be
+Head ID: 454f5263-baf2-cf94-80da-7b359adfa0b4
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 4e598240-322b-fe6a-3d27-456f4a7e8396
+Scriptname: char_216_uiName
+
+Timmy
+Soul ID: 4857a4e6-96a2-a0fe-38ba-8afdb80f098a
+Head ID: 499cf1c1-1b37-4f24-74d5-6a013229d7a5
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4b61cecf-a191-72ce-01bf-36ce711ea6a0
+Scriptname: char_6_uiName
+
+Radan
+Soul ID: 485dc6e3-e63f-b896-4bf3-62b752171cae
+Head ID: 4aeadc6d-b547-a5fe-d6bf-03ec0f8c3194
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_336_uiName
+
+Drahomira
+Soul ID: 48930738-7d92-5239-c614-a9472792e292
+Head ID: 49d9f44c-b704-f8d9-86ae-1a4b7fc72f96
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 450deb9d-adc4-13cf-8e64-3bf5302387b1
+Scriptname: char_213_uiName
+
+Apothecary
+Soul ID: 48a15b71-befb-7e59-940b-43bfeaa937a5
+Head ID: 413ab6b0-705f-43ee-dfe7-f20df5af44a3
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_186_uiName
+
+Tonda
+Soul ID: 48a3771c-664f-4fd2-bd4d-a593a5e7e5ab
+Head ID: 4970ab5a-6f76-c4fa-9dd0-873fb0f892bc
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_136_uiName
+
+Vincent
+Soul ID: 48a9c98c-e514-c769-7ebd-7a32c07b97b5
+Head ID: 485a1f79-15b9-1561-7571-d50db191c0b0
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_140_uiName
+
+Pie
+Soul ID: 48aa754d-8089-a87a-533f-d1ca7d499693
+Head ID: 
+Body ID: 4f14fe8f-5380-84b2-aeb3-6e51163f2a84
+Hair ID: 43fc087e-121a-7646-da06-4a124ff29284
+Scriptname: char_539_uiName
+
+Kelpie
+Soul ID: 48b53a16-e479-872e-4057-66d6bc6801ae
+Head ID: 
+Body ID: 445d16d9-5798-b136-1d02-9859932ce5a4
+Hair ID: 43fc087e-121a-7646-da06-4a124ff29284
+Scriptname: char_491_uiName
+
+Charcoal-burner spokesman
+Soul ID: 48d19a69-4f9c-0678-1632-b2e0bd336c9d
+Head ID: 48b67a62-5959-6bc6-3c26-df8a1ba6c2a9
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_80_uiName
+
+Bailiff
+Soul ID: 48dff681-bed4-0811-cd97-5234e51bd2a2
+Head ID: 4304cd81-2a31-be08-2464-59e97f308191
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 47d9216e-7949-59a0-0272-fbc85829d1a0
+Scriptname: char_53_uiName
+
+Cobbler
+Soul ID: 48e95aa0-623d-5dea-5e13-c22ca6918b82
+Head ID: 00000000-0000-0000-0000-000000000005
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: soul_ui_name_shoemaker
+
+Soldier 
+Soul ID: 48e9bff5-156c-7f6e-af2d-79f56a81f78a
+Head ID: 4a97d5fe-4ebc-2de3-ff05-c7cab44735a2
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 43111af3-2bb6-232c-4c91-da7221d06cbe
+Scriptname: char_513_uiName
+
+Circator John
+Soul ID: 48ee285f-8d53-7d40-5bb2-fe97a9668daf
+Head ID: 498cd967-cd4d-e26c-b25c-58d55fc27898
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: char_145_uiName
+
+Al-Burāq
+Soul ID: 48f4dc7f-b84a-b86f-1a91-6e494db51d83
+Head ID: 
+Body ID: 4f341228-4cbe-cec5-f994-addd4ccaa3a7
+Hair ID: 43fc087e-121a-7646-da06-4a124ff29284
+Scriptname: char_507_uiName
+
+Charcoal-Burner's Helper
+Soul ID: 4909a335-ec27-3213-29b0-9e87cbb93f85
+Head ID: 4826c718-b777-4df2-02ad-b3cd40c4bb97
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4b61cecf-a191-72ce-01bf-36ce711ea6a0
+Scriptname: char_358_uiName
+
+Millmaid Anna
+Soul ID: 4917810c-c9e0-a3ea-6b8d-2b9af13c1e9c
+Head ID: 4e10f78e-d9d8-6b4c-e62d-39c7435feba5
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 4e598240-322b-fe6a-3d27-456f4a7e8396
+Scriptname: char_192_uiName
+
+Captain Bernard
+Soul ID: 491d704a-2542-8314-6238-370dfe920398
+Head ID: 4c59cc69-21cd-f236-b8a4-36cefd897ea1
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_127_uiName
+
+Martin Viezek
+Soul ID: 491f4a40-3a66-601b-d96c-750a9964ff8e
+Head ID: 4ca3b859-ada5-6ab1-a0c2-86cc6cef8381
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4b7bc943-143e-8d8c-c854-4ce1bb2f5ba2
+Scriptname: char_551_uiName
+
+Kornelius
+Soul ID: 493b2fb0-f79f-e5ed-73b0-30762253559e
+Head ID: 4f440a65-e438-04bf-ecfc-43dfd475d097
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_138_uiName
+
+Adela
+Soul ID: 495e1277-3bb4-e1db-c3b8-841582eae796
+Head ID: 4489ffdb-1230-803a-8504-ac985dd01295
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 4ca4f314-85f4-c2ef-e10f-eef1b3f708ad
+Scriptname: char_11_uiName
+
+Guard Radim
+Soul ID: 497f6760-a6ef-51e8-8264-3b12cd0877be
+Head ID: 427e5d03-49f8-a509-f14b-64f09707bea8
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_450_uiName
+
+Novice Lucas
+Soul ID: 497ff41b-0170-84c5-2b64-753021775898
+Head ID: 41a45eef-0043-11d2-39c6-999674b28a9a
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4b61cecf-a191-72ce-01bf-36ce711ea6a0
+Scriptname: char_165_uiName
+
+Charcoal-burner spokesman
+Soul ID: 4997b87e-e06e-fdec-90f1-d6556a9dc9a7
+Head ID: 4433e907-4a1f-a309-d91a-f859e45a0888
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4b61cecf-a191-72ce-01bf-36ce711ea6a0
+Scriptname: char_78_uiName
+
+Ruch
+Soul ID: 499cfdd3-111c-f574-91e0-e719300501b9
+Head ID: 4323dbde-50d4-7036-ccdf-825a7dd58c95
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: char_68_uiName
+
+Straw
+Soul ID: 49a5f815-4be0-c6d7-565b-495f3437559e
+Head ID: 40841976-5e55-5318-f06a-ca57bc2271aa
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_236_uiName
+
+Kuttenberg Executioner
+Soul ID: 49a7194a-7708-957b-9007-b51e1950438c
+Head ID: 4772ebf3-94a8-90c7-fe06-008fae0a8990
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: char_199_uiName
+
+Innkeeper
+Soul ID: 49ade253-d390-adf8-99bc-dc04b65afc9f
+Head ID: 41a13df0-ccb1-4bf8-3240-663c388955b5
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_12_uiName
+
+Beran's wife
+Soul ID: 49bf8894-84bf-8f41-c0b2-bcddb35763a8
+Head ID: 438ffba3-a253-ce22-7a98-039c554ee0bf
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 4e598240-322b-fe6a-3d27-456f4a7e8396
+Scriptname: char_203_uiName
+
+Maple 
+Soul ID: 49c40b69-ff37-5dc1-df3f-369091229e96
+Head ID: 4a63cfe5-7273-213e-89c3-1b1d0b8eb9b3
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_474_uiName
+
+Zmola
+Soul ID: 49c6168b-03e6-2190-a029-656eda43bcaf
+Head ID: 41d9f3cd-f3c0-ada9-461b-c24635f2deb2
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: char_152_uiName
+
+Konrad Kyeser
+Soul ID: 49e53f28-f063-782f-6ac5-2268a520f682
+Head ID: 459573bf-af4d-cb26-5076-35fad54ea5b4
+Body ID: 
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: char_284_uiName
+
+Pegasus
+Soul ID: 49e83b32-f968-e0bb-dcee-2997eb9cca99
+Head ID: 
+Body ID: 4f341228-4cbe-cec5-f994-addd4ccaa3a7
+Hair ID: 43fc087e-121a-7646-da06-4a124ff29284
+Scriptname: char_502_uiName
+
+Charcoal-burner Havel
+Soul ID: 49f42b72-58ac-1e97-8e97-b7d10e0d5f8d
+Head ID: 448b6cc9-0be0-1989-2a4f-7d76443ca5a6
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4b61cecf-a191-72ce-01bf-36ce711ea6a0
+Scriptname: char_46_uiName
+
+Pavel
+Soul ID: 4a000820-590a-a4c3-f533-f93083ed7f9b
+Head ID: 4ca1d4ae-aeac-d01f-60a0-c7e56ea68d86
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_70_uiName
+
+Stephen 
+Soul ID: 4a0a8f4a-34a4-b5fe-6576-73d959f39999
+Head ID: 4ed16810-8c5f-3ad5-0a61-e63a3e9bfe99
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_478_uiName
+
+Vagrant
+Soul ID: 4a14e4d8-cdd8-8f6d-2647-6cc1eb30aca5
+Head ID: 4a63cfe5-7273-213e-89c3-1b1d0b8eb9b3
+Body ID: 
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_266_uiName
+
+Blacksmith's Betty
+Soul ID: 4a2d6bce-254c-f656-0beb-ae7ea13a4292
+Head ID: 47a50742-eb46-fc80-a728-89336bbcb9a1
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 4e598240-322b-fe6a-3d27-456f4a7e8396
+Scriptname: char_77_uiName
+
+Josef
+Soul ID: 4a353d34-83ed-f774-9002-d2c58762e9b1
+Head ID: 430e90b7-fa44-f913-12f2-aa6835ce9f86
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_475_uiName
+
+Vincent
+Soul ID: 4a357b2f-0b8f-e347-020d-e47cb488c6a0
+Head ID: 41369351-5a3d-19b2-39ea-2ea3219aa685
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4b61cecf-a191-72ce-01bf-36ce711ea6a0
+Scriptname: char_515_uiName
+
+Quarryman Semek
+Soul ID: 4a41ff14-f10e-805a-5bce-72dd91fd8a99
+Head ID: 40841976-5e55-5318-f06a-ca57bc2271aa
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 464ec279-f69d-89da-8769-a67ac52e498d
+Scriptname: char_351_uiName
+
+Melichar
+Soul ID: 4a4ad147-9a62-d623-7d57-a6fdadccdfa3
+Head ID: 41369351-5a3d-19b2-39ea-2ea3219aa685
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: char_230_uiName
+
+Wayfarer
+Soul ID: 4a626937-1174-d25a-b76c-7cdaac374e9d
+Head ID: 00000000-0000-0000-0000-000000000005
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_445_uiName
+
+Roe deer
+Soul ID: 4a76984e-edb0-97dd-cc6c-605e380ed8b4
+Head ID: 00000000-0000-0000-0000-000000000005
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_549_uiName
+
+Tanner
+Soul ID: 4a7ff41b-cd54-63f9-2df3-12016dc2fca1
+Head ID: 47eecc79-db4d-a81d-9017-f0b0bb1c66bd
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_3_uiName
+
+Philip from Skalitz
+Soul ID: 4a8615b6-7c1b-9d1c-29f6-6024f6269cac
+Head ID: 40841976-5e55-5318-f06a-ca57bc2271aa
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_354_uiName
+
+Charcoal-burner 
+Soul ID: 4a997a10-013a-870c-ed96-a7141ad1a8a0
+Head ID: 499cf1c1-1b37-4f24-74d5-6a013229d7a5
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_439_uiName
+
+Fisherman Tomkin
+Soul ID: 4aace8a5-4ac2-7ae1-19d2-91bf85b188b7
+Head ID: 48b67a62-5959-6bc6-3c26-df8a1ba6c2a9
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4b61cecf-a191-72ce-01bf-36ce711ea6a0
+Scriptname: char_443_uiName
+
+Zora
+Soul ID: 4ab79da2-dd95-a2e2-2672-554b62118681
+Head ID: 495589a6-c20a-ed74-32d3-941533b81faa
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 4a8db7fc-061e-bf25-0788-544016eb5eaf
+Scriptname: char_169_uiName
+
+Lumir
+Soul ID: 4abe8f7a-e594-9264-8184-1bdfc501fd86
+Head ID: 443ecd20-c33c-30cb-a15b-6730b020b6be
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_69_uiName
+
+Executioner Hermann
+Soul ID: 4ac4d320-20c9-f6b2-c42a-6985417e239f
+Head ID: 445a1db0-010e-0b13-f5dc-3c63ea143db5
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4bc51034-3ad5-0050-f5c1-ba11046ed4ba
+Scriptname: char_176_uiName
+
+Mark
+Soul ID: 4ad8fb29-0b1c-33ef-1724-ff6ecbe9c8a5
+Head ID: 4e8b50c5-63f0-e85b-9a43-f244c56c16aa
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 43111af3-2bb6-232c-4c91-da7221d06cbe
+Scriptname: char_171_uiName
+
+Leshek
+Soul ID: 4adacac3-98c1-af35-5df3-0c2d3aefccbd
+Head ID: 42d388b9-d1cb-b570-496c-68b5e3aee3af
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4b61cecf-a191-72ce-01bf-36ce711ea6a0
+Scriptname: char_269_uiName
+
+Karl's father
+Soul ID: 4adee31c-3794-76a5-1961-1472a6f49abf
+Head ID: 4433e907-4a1f-a309-d91a-f859e45a0888
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_300_uiName
+
+Reeky
+Soul ID: 4aec0002-c42e-1a59-6587-5aef12096eb0
+Head ID: 4970ab5a-6f76-c4fa-9dd0-873fb0f892bc
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_4_uiName
+
+Marta
+Soul ID: 4aef15de-dccd-7cef-a263-f871e001759b
+Head ID: 4a898ebc-7ec6-a59b-494a-e80f2a05a5a9
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 4e598240-322b-fe6a-3d27-456f4a7e8396
+Scriptname: char_442_uiName
+
+Deutsch
+Soul ID: 4aefce43-adce-0b5a-00f0-9bdbe19a7d8d
+Head ID: 4badf439-71f2-a511-6405-e9f2724cdf84
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4b7bc943-143e-8d8c-c854-4ce1bb2f5ba2
+Scriptname: char_52_uiName
+
+Johanka
+Soul ID: 4af9f16e-e4cf-1944-2304-37d437600ab4
+Head ID: 4fd6641d-ed0b-8124-0ad5-550c5ad3ee9f
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 4e598240-322b-fe6a-3d27-456f4a7e8396
+Scriptname: char_55_uiName
+
+Sasau scribe
+Soul ID: 4b0ce772-e9e0-75da-af27-0b8a7b6fe7bd
+Head ID: 4970ab5a-6f76-c4fa-9dd0-873fb0f892bc
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_481_uiName
+
+Antonia
+Soul ID: 4b22b50c-6aa0-5c83-00ab-f5813e6e40b9
+Head ID: 46949204-65e2-8cdf-1e52-5ed116f5bdaa
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 4ca4f314-85f4-c2ef-e10f-eef1b3f708ad
+Scriptname: char_142_uiName
+
+Bucephalus
+Soul ID: 4b30f668-bfa1-e49d-599d-8ff86eb333a4
+Head ID: 
+Body ID: 445d16d9-5798-b136-1d02-9859932ce5a4
+Hair ID: 43fc087e-121a-7646-da06-4a124ff29284
+Scriptname: char_504_uiName
+
+Beran
+Soul ID: 4b36ee6d-3f40-0fa0-1b2c-9e8050bf88ab
+Head ID: 4db3e97a-e739-9fa9-0be0-431a31a3f0b2
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: char_202_uiName
+
+Innkeeper
+Soul ID: 4b57ecc4-881d-54bc-3b2d-36aab54a0d86
+Head ID: 430a5b7a-0cff-49e7-3084-90a5bb41fd8b
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_436_uiName
+
+Mash 
+Soul ID: 4b6e7d92-d71a-37fd-e5d9-a1c23febf990
+Head ID: 4a63cfe5-7273-213e-89c3-1b1d0b8eb9b3
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_473_uiName
+
+Vera
+Soul ID: 4b7a55ac-9553-58a7-fffc-1c26b43f0294
+Head ID: 4fd6641d-ed0b-8124-0ad5-550c5ad3ee9f
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 4a9d64f2-363f-8421-9192-3e5cca84dc89
+Scriptname: char_214_uiName
+
+Head Groom
+Soul ID: 4b8153cf-99bd-641d-6459-f82f8a589fa3
+Head ID: 499cf1c1-1b37-4f24-74d5-6a013229d7a5
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 464ec279-f69d-89da-8769-a67ac52e498d
+Scriptname: char_446_uiName
+
+Bedrishka
+Soul ID: 4b8ef5e2-ea27-13be-1f6a-75c965584ba2
+Head ID: 4e10f78e-d9d8-6b4c-e62d-39c7435feba5
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 450deb9d-adc4-13cf-8e64-3bf5302387b1
+Scriptname: char_517_uiName
+
+Fritz
+Soul ID: 4bae19f7-e5f9-2284-823b-0c7e630489a9
+Head ID: 4ebdd146-20a9-d1b3-9f93-a49a7de90b99
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4b61cecf-a191-72ce-01bf-36ce711ea6a0
+Scriptname: char_204_uiName
+
+Mercenary
+Soul ID: 4bc41b10-7af1-f440-e696-d4eef6e20095
+Head ID: 4970ab5a-6f76-c4fa-9dd0-873fb0f892bc
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: soul_ui_name_mercenary
+
+Marush
+Soul ID: 4bd3a97a-339c-c279-5656-4fe44b2adb8c
+Head ID: 4fd6b538-690c-3831-f7cf-3759a2afbfbf
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 48ed37d7-947c-a46b-6bd3-940db95a58bc
+Scriptname: char_66_uiName
+
+Skalitz Priest
+Soul ID: 4bf9b9a3-3c33-0b06-4042-ed6ec4118ba4
+Head ID: 4cb4a77d-1556-ec5f-4764-4e17faa8408a
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 432f8b7b-bdb8-24e6-9df3-623d504d439b
+Scriptname: char_247_uiName
+
+Father Fabian
+Soul ID: 4c0b7d2c-728a-7da1-5981-0e5bdddfe8b5
+Head ID: 4ecee699-d3a1-ce1c-e641-a54aa4b271b2
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 498bc146-f7d1-1c55-7a6b-b549cbdfb98f
+Scriptname: char_536_uiName
+
+Blacksmith's wife
+Soul ID: 4c1b11c9-5b0b-e7ea-74d4-fbbbc7b363a1
+Head ID: 4a1a02fd-6920-f056-8c9a-ef8b2eb22ea0
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 450deb9d-adc4-13cf-8e64-3bf5302387b1
+Scriptname: char_444_uiName
+
+John II of Liechtenstein
+Soul ID: 4c1f9070-0f34-f482-cc98-008de6b45ba3
+Head ID: 45c7ec88-ad74-9f61-6bdc-e1a75be91a8c
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: char_302_uiName
+
+Tavern brawler
+Soul ID: 4c2b0aca-6d1b-0e32-333d-d7adc4b54da7
+Head ID: 4ca1d4ae-aeac-d01f-60a0-c7e56ea68d86
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_448_uiName
+
+Theresa
+Soul ID: 4c3b9ad2-7463-9ac5-3387-a52e25e3888b
+Head ID: 4dd7098d-236a-b19d-d503-4c5e945a01b7
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 49048677-79d3-a37c-0de9-13bec637df81
+Scriptname: char_23_uiName
+
+Poacher
+Soul ID: 4c6ecb02-ca0f-ea78-8649-35af1a3dac96
+Head ID: 4d4fa1ff-1aec-33e8-4153-4761a8fcccad
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 464ec279-f69d-89da-8769-a67ac52e498d
+Scriptname: soul_ui_name_poacher
+
+Matthias
+Soul ID: 4ca3df32-ca9d-5e1d-7db8-1b9609fe3db3
+Head ID: 41d9f3cd-f3c0-ada9-461b-c24635f2deb2
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4b61cecf-a191-72ce-01bf-36ce711ea6a0
+Scriptname: char_49_uiName
+
+Herb Woman
+Soul ID: 4caa841a-0350-63e8-24fd-389fcf581cb1
+Head ID: 438ffba3-a253-ce22-7a98-039c554ee0bf
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 450deb9d-adc4-13cf-8e64-3bf5302387b1
+Scriptname: char_190_uiName
+
+Radan
+Soul ID: 4ce20ab7-b976-24e0-2c72-99fb9ca75fa0
+Head ID: 4f440a65-e438-04bf-ecfc-43dfd475d097
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_337_uiName
+
+Mine worker
+Soul ID: 4ce7623c-7a79-65e7-edd8-7fa4abe86e9d
+Head ID: 4182f771-c465-75af-611d-8ae2205d8594
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 48ed37d7-947c-a46b-6bd3-940db95a58bc
+Scriptname: char_99_uiName
+
+Tramp
+Soul ID: 4ceb1163-0cc1-067d-0be5-5326bbbc2fae
+Head ID: 4108b00a-e205-4c0e-bc58-b7a9a49c469a
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_253_uiName
+
+Innkeeper
+Soul ID: 4cee0a74-80cd-a680-02e3-3f7193eada98
+Head ID: 4badf439-71f2-a511-6405-e9f2724cdf84
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_96_uiName
+
+Deutsch's Wife
+Soul ID: 4cf2e79e-bdbb-6ffd-6d5c-aba2b6a9e4ae
+Head ID: 47a50742-eb46-fc80-a728-89336bbcb9a1
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 4a9d64f2-363f-8421-9192-3e5cca84dc89
+Scriptname: char_13_uiName
+
+Old Thomas
+Soul ID: 4cf71dc1-01b1-c75b-bd1c-eb5e281905ae
+Head ID: 4970ab5a-6f76-c4fa-9dd0-873fb0f892bc
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_370_uiName
+
+Daniel
+Soul ID: 4cf7a68d-572f-0fd0-283e-1596675f8593
+Head ID: 40841976-5e55-5318-f06a-ca57bc2271aa
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_516_uiName
+
+Blacksmith Mikesh
+Soul ID: 4d11fd34-e5e9-0d47-1594-c4b4bd5610be
+Head ID: 463710ce-4850-84a1-ead9-4206c08a0088
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_102_uiName
+
+Suspicious man-at-arms
+Soul ID: 4d626d4d-e2e8-d1f6-fe0e-43ae2d82f991
+Head ID: 4138f2b4-d849-6a3d-748a-a6190339e1a6
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4ea94f8c-2b55-da74-5858-bbc94ea0619e
+Scriptname: char_92_uiName
+
+Vashek
+Soul ID: 4d69f4f4-6b78-7b1f-5a61-8fa8045b7aac
+Head ID: 4aeadc6d-b547-a5fe-d6bf-03ec0f8c3194
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4b7bc943-143e-8d8c-c854-4ce1bb2f5ba2
+Scriptname: char_452_uiName
+
+Warhorse Jenda
+Soul ID: 4d6e66f7-a18a-7c94-a040-24e3faea2492
+Head ID: 
+Body ID: 4f341228-4cbe-cec5-f994-addd4ccaa3a7
+Hair ID: 43fc087e-121a-7646-da06-4a124ff29284
+Scriptname: char_508_uiName
+
+Brother Nicodemus
+Soul ID: 4d81a057-762d-051e-0223-e909de12698f
+Head ID: 41c8c3c5-01a5-fc38-c828-99a36ab36999
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_133_uiName
+
+Master Karel
+Soul ID: 4d906ac1-5334-acef-a881-cce1f0332a80
+Head ID: 4a63cfe5-7273-213e-89c3-1b1d0b8eb9b3
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: char_149_uiName
+
+Charcoal-burner spokesman
+Soul ID: 4d983d23-eab1-4627-9a58-11168c294a8b
+Head ID: 430a5b7a-0cff-49e7-3084-90a5bb41fd8b
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_81_uiName
+
+Vicar
+Soul ID: 4d9da2c3-a358-5742-0a3b-59bd3f809fb3
+Head ID: 459573bf-af4d-cb26-5076-35fad54ea5b4
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4008b869-81c8-a8f1-e30e-a6a48b7ce6a3
+Scriptname: char_143_uiName
+
+Miller Oliver
+Soul ID: 4da3b5e8-1356-6eab-7177-0d408fca4686
+Head ID: 4d7a2d4a-919c-4096-7af9-977c91bf26b4
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_548_uiName
+
+Gambler
+Soul ID: 4db0a7a6-05ab-7739-9801-32c8d5878183
+Head ID: 455088ce-a60f-cf5b-09ae-e99a6321d3b9
+Body ID: 
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_482_uiName
+
+Kanthaka
+Soul ID: 4db80314-3213-99d7-6c73-3f504ec71c98
+Head ID: 
+Body ID: 4f341228-4cbe-cec5-f994-addd4ccaa3a7
+Hair ID: 43fc087e-121a-7646-da06-4a124ff29284
+Scriptname: char_506_uiName
+
+Overseer
+Soul ID: 4dbfe6e7-3d29-682e-101d-456d3dbe518e
+Head ID: 43854a72-1c15-4f1d-036d-0962d4e4259c
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 43111af3-2bb6-232c-4c91-da7221d06cbe
+Scriptname: char_371_uiName
+
+Tulpar
+Soul ID: 4dc25d24-6458-6277-0e52-6c3a8a299ea6
+Head ID: 
+Body ID: 48ec07ac-17de-add9-49d8-975da7209bba
+Hair ID: 43fc087e-121a-7646-da06-4a124ff29284
+Scriptname: char_496_uiName
+
+Riddler
+Soul ID: 4ddf8e26-7a62-9baf-cfe8-a5d0899c18aa
+Head ID: 41a13df0-ccb1-4bf8-3240-663c388955b5
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_458_uiName
+
+Farmer Josef's wife
+Soul ID: 4e016265-132a-3539-00db-e19c80e23da8
+Head ID: 4a3e825a-d037-4093-256b-0d9ac72f41a7
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 47b253e9-0cf2-7d09-beb2-9e2ee62e6080
+Scriptname: char_451_uiName
+
+Citcator Stibor
+Soul ID: 4e5a1f21-28a1-3030-7cca-54738c6f8480
+Head ID: 413ab6b0-705f-43ee-dfe7-f20df5af44a3
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_160_uiName
+
+Charcoal-burner twin
+Soul ID: 4e8ac3e5-d442-df47-af20-874cc7be16a1
+Head ID: 485a1f79-15b9-1561-7571-d50db191c0b0
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: char_84_uiName
+
+Novice Siskin
+Soul ID: 4eb07e1b-27fb-e6a8-7362-5257e218fea5
+Head ID: 41d9f3cd-f3c0-ada9-461b-c24635f2deb2
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4ea94f8c-2b55-da74-5858-bbc94ea0619e
+Scriptname: char_164_uiName
+
+Jakub
+Soul ID: 4ebd7005-9247-4888-716f-d532784a1caa
+Head ID: 485a1f79-15b9-1561-7571-d50db191c0b0
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 40244696-b3d5-4683-d4d9-774d533da88d
+Scriptname: char_170_uiName
+
+Vicar's guard
+Soul ID: 4ed734dd-c3ed-f0f5-e41e-5456241bf0a7
+Head ID: 4826c718-b777-4df2-02ad-b3cd40c4bb97
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_541_uiName
+
+Boxer 
+Soul ID: 4ef029d2-5a32-f218-954b-bb92f9f9c08a
+Head ID: 
+Body ID: 42855b88-f189-7ee4-5d39-9bd0feea8d86
+Hair ID: 43fc087e-121a-7646-da06-4a124ff29284
+Scriptname: char_490_uiName
+
+Miller
+Soul ID: 4efb06f7-d3a6-12b9-1484-a5fc708fa2a0
+Head ID: 41c8c3c5-01a5-fc38-c828-99a36ab36999
+Body ID: 
+Hair ID: 
+Scriptname: char_177_uiName
+
+Florian
+Soul ID: 4f09dcf8-fe7a-dcb3-4989-f6a233285aa2
+Head ID: 41369351-5a3d-19b2-39ea-2ea3219aa685
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 464ec279-f69d-89da-8769-a67ac52e498d
+Scriptname: char_296_uiName
+
+Sleipnir
+Soul ID: 4f1cc4cd-1780-38d6-5909-ce71e9146abf
+Head ID: 
+Body ID: 48ec07ac-17de-add9-49d8-975da7209bba
+Hair ID: 43fc087e-121a-7646-da06-4a124ff29284
+Scriptname: char_505_uiName
+
+Epona
+Soul ID: 4f21ec6b-b417-687b-ed1f-2f58457f2893
+Head ID: 
+Body ID: 4b58d97c-a4b0-f52f-7506-4b74504db390
+Hair ID: 43fc087e-121a-7646-da06-4a124ff29284
+Scriptname: char_494_uiName
+
+Konrad Hagen
+Soul ID: 4f3696e0-963e-5150-270c-ccf3168b43ab
+Head ID: 4da0fa45-c37e-a7b3-fd4b-9eef082b2880
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_130_uiName
+
+Jack Piper
+Soul ID: 4f59d0e4-cc55-2c88-73d1-d89c562c50bc
+Head ID: 4e24f71b-927b-a555-c932-feffdc9e4eb6
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_65_uiName
+
+Charcoal-burner 
+Soul ID: 4f8b5990-c37f-2805-9379-576aafb61890
+Head ID: 430a5b7a-0cff-49e7-3084-90a5bb41fd8b
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_438_uiName
+
+Milomir 
+Soul ID: 4fa3a428-222b-362f-0ab1-e130f2327bbb
+Head ID: 4970ab5a-6f76-c4fa-9dd0-873fb0f892bc
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_229_uiName
+
+Chollima
+Soul ID: 4fb7f1ff-31df-be54-876b-a950d2d333b6
+Head ID: 
+Body ID: 4f14fe8f-5380-84b2-aeb3-6e51163f2a84
+Hair ID: 43fc087e-121a-7646-da06-4a124ff29284
+Scriptname: char_503_uiName
+
+Nicholas
+Soul ID: 4fbab7bf-fdde-b3ac-b21c-c60c321afcb4
+Head ID: 4d50d1b6-1f14-7341-c2b7-c18d8a68ff86
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 
+Scriptname: char_16_uiName
+
+Novice Jodok
+Soul ID: 4fbd857a-8cab-9f90-92a4-b7dcb20950bc
+Head ID: 41369351-5a3d-19b2-39ea-2ea3219aa685
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4b7bc943-143e-8d8c-c854-4ce1bb2f5ba2
+Scriptname: char_163_uiName
+
+Bran
+Soul ID: 4fcd36f6-f465-bc28-ef77-c5da556509b4
+Head ID: 00000000-0000-0000-0000-000000000005
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_231_uiName
+
+Istvan Toth
+Soul ID: 4fd66f2f-1492-5136-4f74-de723df20cbd
+Head ID: 48b0f7a0-4fd7-e587-e9c7-96440a0874be
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 464ec279-f69d-89da-8769-a67ac52e498d
+Scriptname: char_59_uiName
+
+Sebastian vom Berg
+Soul ID: 4ff5794e-34c2-1cd7-4d2f-c358c870219d
+Head ID: 4970ab5a-6f76-c4fa-9dd0-873fb0f892bc
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_150_uiName
+
+Miller Woyzeck
+Soul ID: 6ebd1d24-e479-47f0-b9ac-5bd1abb4ffc1
+Head ID: 485a1f79-15b9-1561-7571-d50db191c0b0
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 464ec279-f69d-89da-8769-a67ac52e498d
+Scriptname: char_179_uiName
+
+Wolfram Pruda
+Soul ID: 8ffad749-6f78-42f5-84c4-48d8803c8ed7
+Head ID: 4b16e024-81de-fda0-0e31-a96a431ac6b2
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 452fdf90-e2c8-e4ff-3bcf-42cfae335f86
+Scriptname: char_182_uiName
+
+Farmer Josef
+Soul ID: bccd8526-0fe2-42c5-ae9c-cd994871d43d
+Head ID: 47dddc03-7b5c-e8b6-e576-7f474c714fbe
+Body ID: 9fe6dae0-e195-42e0-a3fb-66cfc6382407
+Hair ID: 4b61cecf-a191-72ce-01bf-36ce711ea6a0
+Scriptname: char_441_uiName
+
+Magda
+Soul ID: f4a52096-d2e6-4260-98f5-d2ec8b1c7621
+Head ID: 424d1e19-059d-f8df-75ae-02343a7ce483
+Body ID: 0c728551-5863-4109-a339-b0f42fb0cf85
+Hair ID: 47b253e9-0cf2-7d09-beb2-9e2ee62e6080
+Scriptname: char_191_uiName
