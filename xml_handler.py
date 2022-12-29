@@ -1,37 +1,47 @@
+import logging
+
 import xml.etree.ElementTree as ET
 
 import all_item_ids
 import pak_handler
 import constants
 
-tables_pak_abs_path = "{}/Tables.pak".format(constants.kcd_data_path)
+tables_pak_abs_path = "%s/Tables.pak", constants.kcd_data_path
 
 def check_for_xml_files():
     """Makes sure that all needed xml files are extracted and ready. 
        If not, will extract them from the KCD game files.
     """
-    
+
     for filename in constants.xml_filenames:
         try:
-            tree = ET.parse(constants.xml_dir_path + "/" + filename)
-        except:
-            print("Missing {} \nAttempting extraction...".format(filename))
+            ET.parse(constants.xml_dir_path + "/" + filename)
+        except Exception as exc:
+            logging.exception("%s\nMissing %s \nAttempting extraction...", exc, filename)
             extracted_file = pak_handler.extract_file_from_pak(
-                filename, 
+                filename,
                 tables_pak_abs_path,
-                "{}/xml_files".format(constants.kiwi_install_path)
+                ("%s/xml_files" ,constants.kiwi_install_path)
             )
             if extracted_file:
-                print("Extracted to: \n{}".format(extracted_file))
+                print("Extracted to: \n%s",extracted_file)
             else:
                 print(
-                    "Failed to extract {}, please extract manually to xml_files{}".format(
+                    "Failed to extract %s, please extract manually to xml_files%s",
                         filename,
                         constants.tables_path
                     )
-                )
+    print("All files checked.")
 
 def search_all_xml_files_for_item_id(item_id):
+    """Searches all xml files for the given item ID.
+
+    Args:
+        item_id (str): The item ID to search for.
+
+    Returns:
+        list[str]: The xml files containing the given ID.
+    """
     files_with_id = []
 
     xml_files_to_search = pak_handler.get_all_filepaths_with_str_in_filename(
@@ -44,6 +54,15 @@ def search_all_xml_files_for_item_id(item_id):
     return files_with_id
 
 def is_item_id_in_xml_file(xml_file, item_id):
+    """Checks if an item ID can be found within the specified xml file.
+
+    Args:
+        xml_file (str): The xml file to search.
+        item_id (str): The item ID to search for.
+
+    Returns:
+        bool: Whether or not the item ID is in the xml file.
+    """
     xml__tree = ET.parse(xml_file)
     xml_root = xml__tree.getroot()
 
@@ -67,9 +86,9 @@ def get_material_filename_from_item_id(item_id):
         material_filename = material_id + ".mtl"
         return material_filename
     else:
-        print_error_message()
-    
-    
+        print_error_message('material .mtl file')
+
+
 def get_material_id_from_item_id(item_id):
     """Gets the material ID for the given item ID.
 
@@ -79,7 +98,6 @@ def get_material_id_from_item_id(item_id):
     Returns:
         str: The material ID.
     """
-    # item_name = get_item_name_from_item_ids(item_id)
     clothing_id = get_clothing_id_from_armor_xml(item_id)
     material_id = get_material_id_from_clothing_xml(clothing_id)
     if material_id:
@@ -143,4 +161,11 @@ def get_item_name_from_item_ids(item_id):
 
 
 def print_error_message(str_input):
-    print("Could not find {}, please make sure you have the correct item ID!".format(str_input))
+    """Prints a pre-formatted error message because I'm lazy.
+
+    Args:
+        str_input (str): The string to insert to the message.
+    """
+    print(
+        "Could not find %s, please make sure you have the correct item ID!", str_input
+    )

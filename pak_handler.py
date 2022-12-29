@@ -4,35 +4,6 @@ from zipfile import ZipFile
 import constants
 
 
-def extract_file_from_pak(filename, pak_path, dst_path):
-    """Extracts a single file from a given pak, to the given destination.
-
-    Args:
-        filename (str): The file to extract, with the extension.
-        pak_path (str): The pak to extract from.
-        dst_path (str): The path to extract the file to.
-
-    Returns:
-        str: The path of the extracted file.
-    """
-    rel_filepath = get_rel_filepath_from_pak(pak_path, filename)
-    if rel_filepath:
-        extracted_file = extract_filepath_from_pak(pak_path, rel_filepath, dst_path)
-        return extracted_file
-    else:
-        return None
-
-def extract_multiple_files_from_pak(filenames, pak_path, dst_path):
-    failed_extractions = []
-    for file in filenames:
-        extracted_file = extract_file_from_pak(file, pak_path, dst_path)
-        if extracted_file:
-            print(extracted_file)
-        else:
-            failed_extractions.append(file)
-    if failed_extractions:
-        print('\n'.join(failed_extractions))
-
 def get_rel_filepath_from_pak(pak_path, filename):
     """Finds the relative filepath for a given filename within a .pak. 
     This will search all dirs.
@@ -51,6 +22,7 @@ def get_rel_filepath_from_pak(pak_path, filename):
             if path_tail == filename:
                 return file_path
         return None
+
 
 def get_all_filepaths_with_str_in_filename(pak_path, search_str):
     """Gets the relative filepath of a file containing the search string.
@@ -71,8 +43,15 @@ def get_all_filepaths_with_str_in_filename(pak_path, search_str):
                 file_paths.append(file_path)
         return file_paths
 
-# def get_all_files_with_filename_str_in_pak(pak_path, search_str):
-
+def get_all_filenames_with_str_in_filename(pak_path, search_str):
+    filesnames = []
+    with ZipFile(pak_path, 'r') as pak:
+        files_in_pak = pak.namelist()
+        for file_path in files_in_pak:
+            path_tail = os.path.split(file_path)[1]
+            if search_str in path_tail:
+                filesnames.append(path_tail)
+        return filesnames
 
 def find_cloth_pak_containing_material(material_id):
     """Gets the cloth pak path that contains the files for the material_id.
@@ -89,13 +68,20 @@ def find_cloth_pak_containing_material(material_id):
             return pak
     return None
 
+
 def get_cloth_pak_paths():
+    """Finds the abs paths of the 3 cloth paks.
+
+    Returns:
+        list[str]: The cloth pak paths.
+    """
     cloth_pak_paths = []
     cloth_pak_names = ['Cloth-part0.pak', 'Cloth-part1.pak', 'Cloth-part2.pak']
     for pak in cloth_pak_names:
         pak_path = constants.kcd_data_path + "/" + pak
         cloth_pak_paths.append(pak_path)
     return cloth_pak_paths
+
 
 def extract_filepath_from_pak(pak_path, filepath, extract_dst):
     """Extracts a known relative filepath from a given .pak file.
@@ -117,7 +103,15 @@ def extract_filepath_from_pak(pak_path, filepath, extract_dst):
         print(exc)
         return None
 
-def extract_multiple_files_from_pak(pak_path, files_to_extract, extract_dst):
+
+def extract_multiple_abs_filepaths_from_pak(pak_path, files_to_extract, extract_dst):
+    """Extracts the multiple given absolute filepaths from a pak.
+
+    Args:
+        pak_path (str): The pak to extract from.
+        files_to_extract (str): The abs filepaths to extract.
+        extract_dst (str): The destination to extract the files to.
+    """
     failed_to_extract = []
     for filepath in files_to_extract:
         extracted_file = extract_filepath_from_pak(pak_path, filepath, extract_dst)
@@ -125,7 +119,46 @@ def extract_multiple_files_from_pak(pak_path, files_to_extract, extract_dst):
             continue
         else:
             failed_to_extract.append(filepath)
-    
+
     if failed_to_extract:
         print("Failed to extract the following file(s):\n")
         print('\n'.join(failed_to_extract))
+
+
+def extract_file_from_pak(filename, pak_path, dst_path):
+    """Extracts a single file from a given pak, to the given destination.
+
+    Args:
+        filename (str): The file to extract, with the extension.
+        pak_path (str): The pak to extract from.
+        dst_path (str): The path to extract the file to.
+
+    Returns:
+        str: The path of the extracted file.
+    """
+    rel_filepath = get_rel_filepath_from_pak(pak_path, filename)
+    if rel_filepath:
+        extracted_file = extract_filepath_from_pak(pak_path, rel_filepath, dst_path)
+        return extracted_file
+    else:
+        print("Not rel_filepath")
+        return None
+
+
+def find_and_extract_filenames_from_pak(filenames, pak_path, dst_path):
+    """Searches for and extracts the multiple filenames from a given pak.
+
+    Args:
+        filenames (list[str]): The filenames to search for and extract.
+        pak_path (str): The pak to extract from.
+        dst_path (str): The path to extract to.
+    """
+    failed_extractions = []
+    for file in filenames:
+        extracted_file = extract_file_from_pak(file, pak_path, dst_path)
+        if extracted_file:
+            print(extracted_file)
+        else:
+            failed_extractions.append(file)
+    if failed_extractions:
+        print('\n'.join(failed_extractions))
